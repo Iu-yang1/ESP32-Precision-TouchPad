@@ -1,3 +1,7 @@
+### **当前项目不再更新，请关注新项目：[ESP32 Haptic Precision TouchPad](https://github.com/barryblueice/ESP32-Haptic-Precision-TouchPad)**
+
+***
+
 [英文](https://github.com/barryblueice/ESP32-Precision-TouchPad/blob/main/README.md) | [简体中文](https://github.com/barryblueice/ESP32-Precision-TouchPad/blob/main/README_CN.md)
 
 <img width="975" height="640" alt="D1715F573B20881EF7D5288A19565C22" src="https://github.com/user-attachments/assets/7932252b-1d9c-4764-9f9f-d5c43f84470c" />
