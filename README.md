@@ -136,6 +136,7 @@ Please go to [wiki page](https://github.com/barryblueice/ESP32-Precision-TouchPa
 # Related derivative projects:
 
  - [ESP32 Haptic Precision TouchPad](https://github.com/barryblueice/ESP32-Haptic-Precision-TouchPad) - basing on TouchPad module for Surface Laptop Studio 1964 with feedback adjustment.
+ - [FluentGesture](https://github.com/barryblueice/FluentGesture) - Customizing gesture for Precision TouchPad.
  - [R-SODIUM Precision TouchPad Configurator](https://github.com/barryblueice/R-SODIUM-Precision-TouchPad-Configurator) - GUI Manager for R-SODIUM Precision TouchPad Product series.
 
 
